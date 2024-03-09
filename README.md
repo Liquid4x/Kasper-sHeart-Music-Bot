@@ -25,7 +25,6 @@
 ## Commit Changes: Commit your changes to your forked repository.
 ## Pull Request: Submit a pull request with your changes.
 
-# 📚 Copyright 
 
 
 /*
